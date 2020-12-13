@@ -18,10 +18,14 @@ This repository includes a 3D model of the Synagoge Hoechst in Germany, which wa
 
 ## Results ##
 
-<img align="left" width="490" height="" src="Images%20of%20the%20reconstruction/Exterior/Exterior%202.png">
-<img align="right" width="490" height="" src="Images%20of%20the%20reconstruction/Exterior/Exterior%204.png">
+<img align="left" width="480" height="" src="Images%20of%20the%20reconstruction/Exterior/Exterior%202.png">
+<img align="right" width="480" height="" src="Images%20of%20the%20reconstruction/Exterior/Exterior%204.png">
 <img align="left" width="500" height="" src="Images%20of%20the%20reconstruction/Exterior/Exterior%205.png">
 <img align="right" width="500" height="" src="Images%20of%20the%20reconstruction/Interior/Interior%201.png">
 <img align="left" width="500" height="" src="Images%20of%20the%20reconstruction/Interior/Interior%202.png">
 <img align="right" width="500" height="" src="Images%20of%20the%20reconstruction/Interior/Interior%203.png">
 
+
+## Tools ## 
+* Blender
+* Unity
