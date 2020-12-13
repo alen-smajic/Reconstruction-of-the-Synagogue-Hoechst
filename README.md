@@ -16,6 +16,8 @@ This repository includes a 3D model of the Synagoge Hoechst in Germany, which wa
 
 [![Watch the video](https://www.youtube.com/watch?v=D5pH_EUDmik)
 
+## Results ##
+
 ## Tools ## 
 * Blender
 * Unity
