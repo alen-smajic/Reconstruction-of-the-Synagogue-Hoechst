@@ -7,7 +7,8 @@
 * [Prof. Dr. Alexander Mehler](https://www.texttechnologylab.org/team/alexander-mehler/), email: mehler@em.uni-frankfurt.de
 * [Giuseppe Abrami](https://www.texttechnologylab.org/team/giuseppe-abrami/), email: abrami@em.uni-frankfurt.de
 
-**[Goethe University](http://www.informatik.uni-frankfurt.de/index.php/en/)**
-**[TTLab - Text Technology Lab](https://www.texttechnologylab.org/)**
+**Institutions:**
+  * **[Goethe University](http://www.informatik.uni-frankfurt.de/index.php/en/)**
+  * **[TTLab - Text Technology Lab](https://www.texttechnologylab.org/)**
 
 This repository includes a 3D model of the Synagoge Hoechst in Germany, which was destroyed during WWII.
