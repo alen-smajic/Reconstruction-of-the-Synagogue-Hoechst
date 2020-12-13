@@ -22,8 +22,8 @@ This repository includes a 3D model of the Synagoge Hoechst in Germany, which wa
 
 ## Results ##
 
-<img align="left" width="380" height="" src="Images%20of%20the%20reconstruction/Exterior/Exterior%202.png">
-<img align="right" width="380" height="" src="Images%20of%20the%20reconstruction/Exterior/Exterior%204.png">
+<img align="left" width="400" height="" src="Images%20of%20the%20reconstruction/Exterior/Exterior%202.png">
+<img align="right" width="400" height="" src="Images%20of%20the%20reconstruction/Exterior/Exterior%204.png">
 
 <img align="left" width="480" height="" src="Images%20of%20the%20reconstruction/Exterior/Exterior%205.png">
 <img align="right" width="480" height="" src="Images%20of%20the%20reconstruction/Interior/Interior%201.png">
