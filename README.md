@@ -18,6 +18,8 @@ This repository includes a 3D model of the Synagoge Hoechst in Germany, which wa
 
 ## Results ##
 
+![alt text](https://github.com/alen-smajic/alen-smajic/Reconstruction-of-the-Synagogue-Hoechst/Images of the reconstruction/Exterior/Exterior 2.png)
+
 ## Tools ## 
 * Blender
 * Unity
