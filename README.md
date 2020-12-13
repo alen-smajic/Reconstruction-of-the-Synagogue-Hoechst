@@ -16,6 +16,10 @@ This repository includes a 3D model of the Synagoge Hoechst in Germany, which wa
 
 [![Watch the video](https://www.youtube.com/watch?v=D5pH_EUDmik)
 
+## Publications: ##
+  * **[ResearchGate](https://www.researchgate.net/publication/344830141_Rekonstruktion_der_Synagoge_Hochst)**
+  * **[YouTube Video](https://www.youtube.com/watch?v=D5pH_EUDmik)**
+
 ## Results ##
 
 <img align="left" width="480" height="" src="Images%20of%20the%20reconstruction/Exterior/Exterior%202.png">
