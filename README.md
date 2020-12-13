@@ -18,8 +18,6 @@
   
 ## Project Description ##
 
-This repository includes a 3D model of the Synagoge Hoechst in Germany, which was destroyed during WWII.
-
 ## Publications ##
   * **[ResearchGate](https://www.researchgate.net/publication/344830141_Rekonstruktion_der_Synagoge_Hochst)**
   * **[YouTube Video](https://www.youtube.com/watch?v=D5pH_EUDmik)**
