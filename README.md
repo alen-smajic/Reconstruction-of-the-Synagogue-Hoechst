@@ -11,7 +11,8 @@
   * **[Goethe University](http://www.informatik.uni-frankfurt.de/index.php/en/)**
   * **[TTLab - Text Technology Lab](https://www.texttechnologylab.org/)**
   
-** Project description:**
+**Project description:**
+
 This repository includes a 3D model of the Synagoge Hoechst in Germany, which was destroyed during WWII.
 
 ## Publications ##
