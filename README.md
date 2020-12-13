@@ -19,6 +19,10 @@ This repository includes a 3D model of the Synagoge Hoechst in Germany, which wa
 ## Publications: ##
   * **[ResearchGate](https://www.researchgate.net/publication/344830141_Rekonstruktion_der_Synagoge_Hochst)**
   * **[YouTube Video](https://www.youtube.com/watch?v=D5pH_EUDmik)**
+  
+## Tools ## 
+* Blender
+* Unity
 
 ## Results ##
 
@@ -31,6 +35,3 @@ This repository includes a 3D model of the Synagoge Hoechst in Germany, which wa
 <img align="left" width="390" height="" src="Images%20of%20the%20reconstruction/Interior/Interior%202.png">
 <img align="right" width="390" height="" src="Images%20of%20the%20reconstruction/Interior/Interior%203.png">
 
-## Tools ## 
-* Blender
-* Unity
