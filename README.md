@@ -1,4 +1,4 @@
-# Reconstrution of the Synagogue Hoechst, Goethe University (Spring 2019)
+# Reconstruction of the Synagogue Hoechst, Goethe University (Spring 2019)
 
 ## General Information
 <img align="right" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo-Goethe-University-Frankfurt-am-Main.svg">
