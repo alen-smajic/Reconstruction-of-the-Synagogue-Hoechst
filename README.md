@@ -28,12 +28,17 @@ This project was developed as part of the CS course 'Ubiquitous Texttechnologies
 * Unity
 
 ## Results ##
-
+<ul>
 <img align="left" width="390" height="" src="Images%20of%20our%20reconstruction/Exterior/Exterior%202.png">
 <img align="right" width="390" height="" src="Images%20of%20our%20reconstruction/Exterior/Exterior%204.png">
+</ul>
 
+<ul>
 <img align="left" width="390" height="" src="Images%20of%20our%20reconstruction/Exterior/Exterior%205.png">
 <img align="right" width="390" height="" src="Images%20of%20our%20reconstruction/Interior/Interior%201.png">
+</ul>
+<br />
+
 
 <img align="left" width="390" height="" src="Images%20of%20our%20reconstruction/Interior/Interior%202.png">
 <img align="right" width="390" height="" src="Images%20of%20our%20reconstruction/Interior/Interior%203.png">
