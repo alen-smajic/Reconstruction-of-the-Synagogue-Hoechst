@@ -28,6 +28,8 @@ This project was developed as part of the CS course 'Ubiquitous Texttechnologies
 * Unity
 
 ## Results ##
+<img align="center" width="1000" height="" src="Images%20of%20our%20reconstruction/Exterior/Synagoge%20Höchst%20Comparison.png">
+
 <img align="left" width="390" height="" src="Images%20of%20our%20reconstruction/Exterior/Exterior%202.png">
 <img align="right" width="390" height="" src="Images%20of%20our%20reconstruction/Exterior/Exterior%204.png">
 
