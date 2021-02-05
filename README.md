@@ -11,7 +11,7 @@
   * **[Goethe University](http://www.informatik.uni-frankfurt.de/index.php/en/)**
   * **[TTLab - Text Technology Lab](https://www.texttechnologylab.org/)**
   
-**Project team:**
+**Project team (A-Z):**
 * Mischa Dankert
 * Andre Kerkhoff
 * Alen Smajic
